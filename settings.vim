@@ -48,7 +48,6 @@ if g:OS#win
 endif
 
 " Plugins Manager
-execute pathogen#infect()
 filetype plugin indent on    " automatically load filetypeplugins
 
 " Editor Settings
